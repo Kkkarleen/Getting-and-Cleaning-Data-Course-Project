@@ -65,7 +65,8 @@ mean(): Mean value
 std(): Standard deviation
 
 
-the steps of the scripts calculated:
+the steps that the script performed:
+
 1.Download the dataset
   - Dataset downloaded and extracted under the folder called UCI HAR Dataset
   - features.txt : 561 rows, 2 columns
