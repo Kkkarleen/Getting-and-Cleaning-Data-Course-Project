@@ -63,9 +63,9 @@ the steps of the scripts calculated:
                    contains test data of activities’code labels
   - subject_train.txt : 7352 rows, 1 column
           contains train data of 21/30 volunteer subjects being observed
-  -X_train.txt : 7352 rows, 561 columns
+  - X_train.txt : 7352 rows, 561 columns
             contains recorded features train data
-  -y_train.txt : 7352 rows, 1 columns
+  - y_train.txt : 7352 rows, 1 columns
               contains train data of activities’code labels
 
 2. Merges the training and the test sets to create one data set
