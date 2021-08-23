@@ -7,9 +7,7 @@ data
 variable
 - subjectId: Subject identifier, integer, ranges from 1 to 30.
 - activity: including 6 activities; WALKING,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,SITTING,STANDING and LAYING
-
-
-79 averaged signal measurements
+- 79 averaged signal measurements
 
 The measurements selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. 
