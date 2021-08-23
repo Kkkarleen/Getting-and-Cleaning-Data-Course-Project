@@ -5,8 +5,8 @@ data
 
 
 variable
--subjectId: Subject identifier, integer, ranges from 1 to 30.
--activity: including 6 activities; WALKING,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,SITTING,STANDING and LAYING
+- subjectId: Subject identifier, integer, ranges from 1 to 30.
+- activity: including 6 activities; WALKING,WALKING_UPSTAIRS, WALKING_DOWNSTAIRS,SITTING,STANDING and LAYING
 
 
 79 averaged signal measurements
